@@ -1,4 +1,2 @@
-print("Pi is equal to %f" % 3.1416)
-print("%s's final score is %d" %)
-print("Total amount spent is: %.5f" %)
-print("The area of a circle of radius %d is %f" % (9, 3.1416*4*7))
+print ("Sanjay has 6 bowls for 144 cookies.")
+print ("There are %d cookies in each bowl" % (144/6))
