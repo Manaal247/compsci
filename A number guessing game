@@ -1,3 +1,10 @@
+#Manaal Shahid
+#1060580
+#ICS3U
+#secret_number - the random number
+#max_attempts - the max number of tries
+#attempts - the number of guesses user has done
+#guess - the guess the user is currently on
 import random #import random module
 secret_number = random.randint(1,100) #Pick a random number
 max_attempts = 6 #Maximum number of attempt
